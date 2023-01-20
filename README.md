@@ -13,3 +13,4 @@ Las funciones que puede ofrecer el QA en cada etapa del Ciclo de Vida del Softwa
 - De la elaboración de documentaciones de prueba.
 - De pruebas del software.
 - De creación de informes.
+- 
