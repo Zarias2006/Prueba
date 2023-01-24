@@ -7,9 +7,18 @@ El sitio web https://www.xe.com/currencyconverter/ tiene cuatro funciones princi
 
 Las funciones que puede ofrecer el QA en cada etapa del Ciclo de Vida del Software son:
 
+
+Etapa                               Funciones
+Análisis de requerimientos    
+Planificación
+Diseño
+Desarrollo                          desarrollo de escenarios de prueba
+Pruebas                             pruebas del software
+Soporte técnico e implementación
+
 -Se encarga del análisis de los requisitos del producto.
 -De la evaluación del riesgo.
--Del desarrollo de escenarios de prueba.
+-Del 
 -De la elaboración de documentaciones de prueba.
 -De pruebas del software.
 -De creación de informes.
