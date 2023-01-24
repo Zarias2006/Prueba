@@ -11,7 +11,7 @@ Las funciones que puede ofrecer el QA en cada etapa del Ciclo de Vida del Softwa
 Etapa                               Funciones
 
 Análisis de requerimientos          análisis de los requisitos del producto
-Planificación                       evaluación del riesgo
+Planificación                       evaluación del riesgo, define la estrategia de pruebas y planifica los recursos.
 Diseño                              Elaboración de documentaciones de prueba, Crea casos de prueba
 Desarrollo                          Priorizar los entornos de prueba
 Pruebas                             pruebas del software
